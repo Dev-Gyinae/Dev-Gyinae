@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on all projects petraining frontend and react development
 - 📫 How to reach me is via email dev.gyinae@gmail.com
 
+You can also find me on twitter and instagram @_gyinae__
+
 <!---
 Dev-Gyinae/Dev-Gyinae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
