@@ -56,7 +56,7 @@ DevSecOps Engineer with a focus on secure automation, stable deployments, and ob
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Dev-Gyinae&theme=midnight-purple&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Gyinae&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
