@@ -47,7 +47,7 @@ DevSecOps Engineer with a focus on secure automation, stable deployments, and ob
 
 ---
 
-## Connect
+## Let's Connect
 
 [Bluesky](https://bsky.app/profile/gyinae)  
 [Medium](https://medium.com/@dev.gyinae)  
