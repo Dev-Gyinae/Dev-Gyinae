@@ -1,19 +1,36 @@
-# 💫 About Me:
-Hi, I'm Dev-Gyinae<br><br>Passionate about building secure, automated pipelines and scalable cloud-native systems. Experienced with Kubernetes, Docker, Jenkins, Terraform, Ansible, Prometheus, and modern CI/CD workflows.<br><br>About Me<br>Designed and implemented modular DevSecOps pipelines for corporate applications, incorporating vulnerability scanning and observability.<br>Skilled in infrastructure-as-code using Terraform and Ansible for cloud resource provisioning and configuration management.<br>Adept in container orchestration with Kubernetes (including lightweight k3s clusters), and automated deployments using Helm charts.<br>Expertise in integrating monitoring solutions with Prometheus and Grafana for real-time metrics and alerting.<br>Hands-on experience managing identity and access with Azure AD and EntraID, enforcing least-privilege and security compliance.
+# About Me
+DevSecOps Engineer with a focus on building secure, automated pipelines and scalable cloud-native systems. Experienced in Kubernetes, Docker, Jenkins, Terraform, Ansible, Prometheus, and modern CI/CD workflows.
 
+**Core Experience**
+- Designed and implemented modular DevSecOps pipelines for enterprise and personal projects, integrating security scanning and observability at each stage.  
+- Skilled in Infrastructure as Code (IaC) using Terraform and Ansible for provisioning and configuration management across multicloud environments.  
+- Experienced in container orchestration with Kubernetes (including lightweight K3s clusters) and automated application delivery with Helm charts.  
+- Developed monitoring and alerting solutions using Prometheus and Grafana for real-time performance visibility.  
+- Proficient in managing identity and access through Azure AD and EntraID, enforcing least-privilege principles and compliance requirements.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gyi_9ae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-gyinae-b89ba335b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dev.gyinae) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@gyinae) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.gyinae@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+# Socials
+[LinkedIn](https://linkedin.com/in/samuel-gyinae-b89ba335b) | [GitHub](https://github.com/Dev-Gyinae) | [Medium](https://medium.com/@dev.gyinae) | [YouTube](https://youtube.com/@gyinae) | [Email](mailto:dev.gyinae@gmail.com) | [Instagram](https://instagram.com/gyi_9ae)
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+# Tech Stack
+**Languages & Scripting:** Python, Bash  
+**DevOps & CI/CD:** GitLab CI/CD, Jenkins, GitHub Actions, Terraform, Ansible  
+**Containers & Orchestration:** Docker, Kubernetes, Helm  
+**Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry, SonarQube  
+**Cloud Platforms:** AWS, Oracle Cloud, Azure, DigitalOcean, Linode, Netlify, Vercel, Cloudflare, Firebase  
+**Networking & Infrastructure:** Nginx, RabbitMQ, Elasticsearch, MySQL, MongoDB  
+**Collaboration Tools:** Jira, Postman, Gradle, Apache Maven
 
-  ## 💰 Buy me a coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/gyinae) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Quote
+> "Security and automation are not separate goals — they define the foundation of reliable systems."
+
+---
+
+# Support My Work
+If you find my projects useful, consider supporting them here:  
+[Buy Me a Coffee](https://buymeacoffee.com/gyinae)
