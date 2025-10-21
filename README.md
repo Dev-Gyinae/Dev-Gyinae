@@ -17,7 +17,7 @@ DevSecOps Engineer with a focus on building secure, automated pipelines and scal
 
 # Tech Stack
 **Languages & Scripting:** Python, Bash  
-**DevOps & CI/CD:** GitLab CI/CD, Jenkins, GitHub Actions, Terraform, Ansible  
+**DevOps & CI/CD Automation:** GitLab CI/CD, Jenkins, GitHub Actions, Terraform, Ansible, CloudFormation  
 **Containers & Orchestration:** Docker, Kubernetes, Helm  
 **Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry, SonarQube  
 **Cloud Platforms:** AWS, Oracle Cloud, Azure, DigitalOcean, Linode, Netlify, Vercel, Cloudflare, Firebase  
