@@ -1,36 +1,89 @@
-# About Me
-DevSecOps Engineer with a focus on building secure, automated pipelines and scalable cloud-native systems. Experienced in Kubernetes, Docker, Jenkins, Terraform, Ansible, Prometheus, and modern CI/CD workflows.
+# Samuel Gyinae
 
-**Core Experience**
-- Designed and implemented modular DevSecOps pipelines for enterprise and personal projects, integrating security scanning and observability at each stage.  
-- Skilled in Infrastructure as Code (IaC) using Terraform and Ansible for provisioning and configuration management across multicloud environments.  
-- Experienced in container orchestration with Kubernetes (including lightweight K3s clusters) and automated application delivery with Helm charts.  
-- Developed monitoring and alerting solutions using Prometheus and Grafana for real-time performance visibility.  
-- Proficient in managing identity and access through Azure AD and EntraID, enforcing least-privilege principles and compliance requirements.
+DevOps Engineer with hands-on experience building, automating, and operating cloud-native infrastructure for telecom and fintech platforms supporting 100k+ users.
+
+I specialize in infrastructure automation, CI/CD pipelines, container orchestration, and observability across AWS, Azure, and OCI. My background in networking and cloud security enables me to design systems that are reliable, secure, and audit-ready.
+
+I have supported production and staging environments for MTN group platforms and contributed to cloud connectivity, identity access management, and PCI-DSS readiness for fintech systems at Hubtel.
 
 ---
 
-# Socials
-[LinkedIn](https://linkedin.com/in/samuel-gyinae-b89ba335b) | [GitHub](https://github.com/Dev-Gyinae) | [Medium](https://medium.com/@dev.gyinae) | [YouTube](https://youtube.com/@gyinae) | [Email](mailto:dev.gyinae@gmail.com) | [Instagram](https://instagram.com/gyi_9ae)
+## What I Work On
+
+- Designing and operating CI/CD pipelines using GitLab CI, GitHub Actions, Jenkins, and Azure DevOps  
+- Automating infrastructure using Terraform, CloudFormation, and Ansible  
+- Deploying and managing containerized workloads with Docker, Kubernetes, Helm, and Docker Swarm  
+- Implementing monitoring and observability with Prometheus, Grafana, ELK, and alerting systems  
+- Applying DevSecOps practices such as vulnerability scanning, RBAC, and secure defaults without slowing delivery  
 
 ---
 
-# Tech Stack
-**Languages & Scripting:** Python, Bash  
-**DevOps & CI/CD Automation:** GitLab CI/CD, Jenkins, GitHub Actions, Terraform, Ansible, CloudFormation  
-**Containers & Orchestration:** Docker, Kubernetes, Helm  
-**Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry, SonarQube  
-**Cloud Platforms:** AWS, Oracle Cloud, Azure, DigitalOcean, Linode, Netlify, Vercel, Cloudflare, Firebase  
-**Networking & Infrastructure:** Nginx, RabbitMQ, Elasticsearch, MySQL, MongoDB  
-**Collaboration Tools:** Jira, Postman, Gradle, Apache Maven
+## Core Experience Highlights
+
+- Reduced environment provisioning and recovery time by approximately 40% through Infrastructure as Code  
+- Supported CI/CD release processes and uptime management for telecom platforms serving 100k+ users  
+- Operated Linux-based production systems with a focus on reliability, rollback safety, and incident response  
+- Supported PCI-DSS compliance initiatives and Azure AD / Entra ID access control  
+- Improved incident detection and response times by 25–30% through observability tooling  
 
 ---
 
-# Quote
-> "Security and automation are not separate goals — they define the foundation of reliable systems."
+## Selected Projects (Personal – GitHub)
+
+### Cloud Infrastructure with AWS CloudFormation
+Reusable CloudFormation templates for provisioning VPCs, EC2 instances, IAM roles, security groups, and networking components following AWS best practices.
+
+### Secure CI/CD Pipeline
+Production-style GitLab CI pipeline integrating Docker, Trivy, SonarQube, and Kubernetes to automate build, test, scan, and deployment stages.
+
+### Kubernetes Monitoring and Observability Stack
+Automated deployment of Prometheus and Grafana using Helm, including dashboards and alerting for real-time system visibility.
+
+These projects reflect production patterns and mirror tooling used in real client environments.
 
 ---
 
-# Support My Work
-If you find my projects useful, consider supporting them here:  
-[Buy Me a Coffee](https://buymeacoffee.com/gyinae)
+## Tech Stack
+
+**Languages and Scripting**  
+Python, Bash  
+
+**CI/CD and Automation**  
+GitLab CI/CD, GitHub Actions, Jenkins, Azure DevOps  
+
+**Infrastructure as Code**  
+Terraform, CloudFormation, Ansible  
+
+**Containers and Orchestration**  
+Docker, Kubernetes, Helm, Docker Swarm  
+
+**Monitoring and Observability**  
+Prometheus, Grafana, ELK Stack, OpenTelemetry  
+
+**Cloud Platforms**  
+AWS, Azure, Oracle Cloud, DigitalOcean  
+
+**Networking and Messaging**  
+Nginx, RabbitMQ  
+
+---
+
+## Links
+
+- LinkedIn: https://linkedin.com/in/samuel-gyinae  
+- Portfolio: https://gyinae.vercel.app  
+- Medium: https://medium.com/@dev.gyinae  
+- Email: dev.gyinae@gmail.com  
+
+---
+
+## Philosophy
+
+Automation, reliability, and security are foundational requirements for scalable systems.
+
+---
+
+## Support
+
+If you find my projects useful, you can support my work here:  
+https://buymeacoffee.com/gyinae
