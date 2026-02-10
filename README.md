@@ -70,7 +70,6 @@ Nginx, RabbitMQ
 
 ## Links
 
-- LinkedIn: https://linkedin.com/in/samuel-gyinae  
 - Portfolio: https://gyinae.vercel.app  
 - Medium: https://medium.com/@dev.gyinae  
 - Email: dev.gyinae@gmail.com  
