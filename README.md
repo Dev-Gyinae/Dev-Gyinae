@@ -1,88 +1,93 @@
-# Samuel Gyinae
+<h1 align="center">Gyinae Samuel</h1>
+<h3 align="center">Backend & DevOps Engineer | Ex Network Engineer </h3>
 
-DevOps Engineer with hands-on experience building, automating, and operating cloud-native infrastructure for telecom and fintech platforms supporting 100k+ users.
-
-I specialize in infrastructure automation, CI/CD pipelines, container orchestration, and observability across AWS, Azure, and OCI. My background in networking and cloud security enables me to design systems that are reliable, secure, and audit-ready.
-
-I have supported production and staging environments for MTN group platforms and contributed to cloud connectivity, identity access management, and PCI-DSS readiness for fintech systems at Hubtel.
-
----
-
-## What I Work On
-
-- Designing and operating CI/CD pipelines using GitLab CI, GitHub Actions, Jenkins, and Azure DevOps  
-- Automating infrastructure using Terraform, CloudFormation, and Ansible  
-- Deploying and managing containerized workloads with Docker, Kubernetes, Helm, and Docker Swarm  
-- Implementing monitoring and observability with Prometheus, Grafana, ELK, and alerting systems  
-- Applying DevSecOps practices such as vulnerability scanning, RBAC, and secure defaults without slowing delivery  
+<p align="center">
+Building production systems across backend engineering, cloud infrastructure, and DevOps automation.
+</p>
 
 ---
 
-## Core Experience Highlights
+## Engineering Focus
 
-- Reduced environment provisioning and recovery time by approximately 40% through Infrastructure as Code  
-- Supported CI/CD release processes and uptime management for telecom platforms serving 100k+ users  
-- Operated Linux-based production systems with a focus on reliability, rollback safety, and incident response  
-- Supported PCI-DSS compliance initiatives and Azure AD / Entra ID access control  
-- Improved incident detection and response times by 25–30% through observability tooling  
-
----
-
-## Selected Projects (Personal – GitHub)
-
-### Cloud Infrastructure with AWS CloudFormation
-Reusable CloudFormation templates for provisioning VPCs, EC2 instances, IAM roles, security groups, and networking components following AWS best practices.
-
-### Secure CI/CD Pipeline
-Production-style GitLab CI pipeline integrating Docker, Trivy, SonarQube, and Kubernetes to automate build, test, scan, and deployment stages.
-
-### Kubernetes Monitoring and Observability Stack
-Automated deployment of Prometheus and Grafana using Helm, including dashboards and alerting for real-time system visibility.
-
-These projects reflect production patterns and mirror tooling used in real client environments.
+- Backend Development (Python, Node.js)
+- DevOps & Cloud Infrastructure
+- Linux Systems Engineering
+- CI/CD Automation
+- Containerized Applications
+- Scalable Platform Design
 
 ---
 
 ## Tech Stack
 
-**Languages and Scripting**  
-Python, Bash  
+### Backend
+![Python](https://img.shields.io/badge/Python-Backend-blue)
+![NodeJS](https://img.shields.io/badge/Node.js-API-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Redis](https://img.shields.io/badge/Redis-Cache-red)
 
-**CI/CD and Automation**  
-GitLab CI/CD, GitHub Actions, Jenkins, Azure DevOps  
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange)
 
-**Infrastructure as Code**  
-Terraform, CloudFormation, Ansible  
-
-**Containers and Orchestration**  
-Docker, Kubernetes, Helm, Docker Swarm  
-
-**Monitoring and Observability**  
-Prometheus, Grafana, ELK Stack, OpenTelemetry  
-
-**Cloud Platforms**  
-AWS, Azure, Oracle Cloud, DigitalOcean  
-
-**Networking and Messaging**  
-Nginx, RabbitMQ  
+### Systems
+![Linux](https://img.shields.io/badge/Linux-Administration-black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-grey)
 
 ---
 
-## Links
+## Production & Featured Projects
 
-- Portfolio: https://gyinae.vercel.app  
-- Medium: https://medium.com/@dev.gyinae  
-- Email: dev.gyinae@gmail.com  
+### Adhive Platform
+Full-stack platform designed and deployed end-to-end.
+
+**Stack**
+- Vite
+- Node.js
+- Socket.IO
+- PostgreSQL
+- Railway (Backend)
+- Vercel (Frontend)
+
+**Engineering Work**
+- Backend architecture & API design
+- Database modeling
+- CI workflows via GitHub
+- Cloud deployment & runtime management
 
 ---
 
-## Philosophy
+## DevOps Experience
 
-Automation, reliability, and security are foundational requirements for scalable systems.
+- Built CI/CD pipelines across telecom and fintech environments
+- Managed containerized workloads serving 100k+ users
+- Infrastructure as Code using Terraform & Ansible
+- Monitoring with Prometheus, Grafana, and ELK
+- Linux-based production environments
 
 ---
 
-## Support
+## Currently Learning
 
-If you find my projects useful, you can support my work here:  
-https://buymeacoffee.com/gyinae
+- Advanced Backend Engineering (Node.js ecosystem)
+- Nginx architecture & reverse proxy patterns
+- Redis caching strategies
+- System design fundamentals
+- Python backend services
+
+---
+
+## Certifications
+
+- Oracle Cloud Infrastructure DevOps Professional
+- AWS Cloud Practitioner
+- CCNA — Cisco
+- Python Development Certification
+
+---
+
+## Connect
+
+Portfolio: https://gyinae.vercel.app
