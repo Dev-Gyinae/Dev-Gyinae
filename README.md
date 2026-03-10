@@ -1,90 +1,108 @@
 <h1 align="center">Gyinae Samuel</h1>
-<h3 align="center">Backend & DevOps Engineer | Ex Network Engineer </h3>
+<h3 align="center">Backend & DevOps Engineer</h3>
 
 <p align="center">
-Building production systems across backend engineering, cloud infrastructure, and DevOps automation.
+Engineering reliable systems across backend development, cloud infrastructure, and Linux-based platforms.
 </p>
+
+---
+
+## About
+
+I am an engineer with a background spanning IT support, network engineering, cloud infrastructure, and DevOps operations, now focused on backend engineering and platform reliability.
+
+My work sits at the intersection of software and infrastructure — designing applications while building the systems that deploy, scale, and operate them in production environments.
+
+I have experience supporting telecom and fintech systems serving 100,000+ users and currently build full-stack and backend platforms while deepening expertise in distributed systems and modern backend architecture.
 
 ---
 
 ## Engineering Focus
 
-- Backend Development (Python, Node.js)
-- DevOps & Cloud Infrastructure
-- Linux Systems Engineering
-- CI/CD Automation
-- Containerized Applications
-- Scalable Platform Design
+- Backend Development
+- DevOps & Platform Engineering
+- Linux Systems Administration
+- Cloud Infrastructure & Automation
+- Production Deployment & Reliability
 
 ---
 
-## Tech Stack
+## Technical Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-Backend-blue)
-![NodeJS](https://img.shields.io/badge/Node.js-API-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Redis](https://img.shields.io/badge/Redis-Cache-red)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange)
-
-### Systems
-![Linux](https://img.shields.io/badge/Linux-Administration-black)
-![Bash](https://img.shields.io/badge/Bash-Scripting-grey)
-
----
-
-## Production & Featured Projects
-
-### Adhive Platform
-Full-stack platform designed and deployed end-to-end.
-
-**Stack**
-- Vite
+### Backend & Application Development
+- Python
 - Node.js
+- REST APIs
 - Socket.IO
 - PostgreSQL
-- Railway (Backend)
-- Vercel (Frontend)
+- API architecture & backend services
 
-**Engineering Work**
-- Backend architecture & API design
-- Database modeling
-- CI workflows via GitHub
-- Cloud deployment & runtime management
+### DevOps & Cloud
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- GitHub Actions / GitLab CI
+- Infrastructure as Code
+- Cloud deployment workflows
+
+### Systems & Operations
+- Linux Administration
+- Bash scripting
+- Networking fundamentals
+- Monitoring & Observability
+  - Prometheus
+  - Grafana
+  - ELK Stack
+
+### Cloud Platforms
+- AWS
+- Microsoft Azure
+- Oracle Cloud Infrastructure (OCI)
 
 ---
 
-## DevOps Experience
+## Currently Learning & Exploring
 
-- Built CI/CD pipelines across telecom and fintech environments
-- Managed containerized workloads serving 100k+ users
-- Infrastructure as Code using Terraform & Ansible
-- Monitoring with Prometheus, Grafana, and ELK
-- Linux-based production environments
-
----
-
-## Currently Learning
-
-- Advanced Backend Engineering (Node.js ecosystem)
-- Nginx architecture & reverse proxy patterns
+- Advanced backend engineering patterns
+- Nginx and reverse proxy architecture
 - Redis caching strategies
-- System design fundamentals
+- Scalable Node.js services
 - Python backend services
+- System design fundamentals
+
+(Active learning through project-based implementation and production-style deployments.)
+
+---
+
+## Engineering Journey
+
+Started in IT support and network engineering, transitioned into cloud infrastructure and DevOps, and now expanding into backend engineering to operate across the full application lifecycle — from code to production infrastructure.
+
+I enjoy solving problems where software meets systems:
+designing, deploying, automating, and improving reliability.
 
 ---
 
 ## Certifications
 
 - Oracle Cloud Infrastructure DevOps Professional
+- Oracle Cloud Infrastructure Multicloud Professional
 - AWS Cloud Practitioner
-- CCNA — Cisco
+- Cisco Certified Network Associate (CCNA)
+- Cisco Cybersecurity Analyst
+- Cisco Ethical Hacker
 - Python Development Certification
+
+---
+
+## Open Source & Learning
+
+Active GitHub contributor focused on:
+- infrastructure automation
+- backend experimentation
+- deployment workflows
+- Linux and DevOps tooling
 
 ---
 
