@@ -1,4 +1,4 @@
-<h1 align="center">Gyinae Samuel</h1>
+
 <h3 align="center">Backend & DevOps Engineer</h3>
 
 <p align="center">
